@@ -1,0 +1,6 @@
+[{"user": "bitcoin", "repo": "bitcoin"},
+ {"user": "ethereum", "repo": "go-ethereum"},
+ {"user": "ripple", "repo": "rippled"},
+ {"user": "bitcoin-ABC", "repo": "bitcoin-abc"},
+ {"user": "litecoin-project", "repo": "litecoin"},
+ {"user": "EOSIO", "repo": "eos"}]
