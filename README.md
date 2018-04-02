@@ -10,6 +10,8 @@ To add more repos to the page or remove some from the existing display, simply a
 
 Usage
 -
+To *install* the app, run the command `npm install` inside the top-level folder. 
+
 To *run* the app in development mode, run the command `npm start` inside the top-level folder. Open http://localhost:3000 to view it in a browser.
 
 To *deploy* the app, use the command `npm run build`, which will build the app to the `build` folder. This will bundle React in production mode and optimize for performance.
