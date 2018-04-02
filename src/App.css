@@ -1,18 +1,11 @@
 .App {
   text-align: center;
+  /* allows for sticky footer, per https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/*/
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
 }
 
-.App-header {
-  background-color: #222;
-  height: 100px;
-  padding: 20px;
-  color: white;
-}
-
-.App-title {
-  font-size: 1.5em;
-}
-
-.App-subtitle {
-  font-size: 0.5em;
+.App-content {
+  flex: 1;
 }
